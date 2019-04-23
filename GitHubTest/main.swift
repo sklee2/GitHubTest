@@ -10,3 +10,4 @@ import Foundation
 
 print("Hello, World!")
 
+print("안녕하세요, 세상에나!")
