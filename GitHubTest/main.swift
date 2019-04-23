@@ -19,3 +19,5 @@ print("집에서 작업")
 print("work at the office again!!")
 
 print("다시 집에서 작업")
+
+print("학교 작업")
